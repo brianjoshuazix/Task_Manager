@@ -2,8 +2,11 @@
 
 ## Installation
 Clone the repository: git clone https://github.com/brianjoshuazix/task_manager.git
-Install the dependencies: composer install
-Create a copy of the .env.example file and rename it to .env
+
+## Install the dependencies: 
+composer install
+
+## Create a copy of the .env.example file and rename it to .env
 Configure the database settings in the .env file
 
 ## Run the migrations: 
